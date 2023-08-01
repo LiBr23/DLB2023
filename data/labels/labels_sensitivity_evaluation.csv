@@ -1,0 +1,261 @@
+﻿ID,label,Japanese comment,English comment,not scary,cute,cool,beautiful,not scary eye,not scary flash,cool fur,good cat,not difficult  to identify,nice eye catchlight,beautiful eye color,not dark photo,black fur,green grass,white cat,looking at the camera,not glowing eye,no surrounding unnecessary text,well-resolved fur,blurred background,natural light,soft light
+CAT_00-00000001_000,2,表情が怖い,The expression is scary.,2,1,4,3,1,5,5,2,5,1,2,2,1,1,5,5,5,5,5,1,4,5
+CAT_00-00000001_005,4,目がクリクリしていてかわいい,The eyes are round and cute.,5,5,1,4,5,4,2,5,5,4,4,5,4,1,1,5,5,5,4,1,2,3
+CAT_00-00000001_011,1,目が怖い,The eyes are scary.,2,2,3,2,1,3,3,2,5,1,1,5,3,1,1,2,5,5,4,1,1,2
+CAT_00-00000001_012,5,キリリとしていてかっこいい。毛も詳細まで解像していて綺麗。,Sharp and cool. The fur is beautifully detailed.,5,2,5,4,5,5,3,5,5,5,4,5,1,1,1,1,5,5,5,5,5,2
+CAT_00-00000001_017,4,ちょっと暗いけど、可愛い,"It's a bit dark, but cute.",5,4,1,3,4,3,2,4,4,4,3,4,4,1,1,5,5,5,2,3,2,2
+CAT_00-00000001_020,2,怖い。広角レンズを使っているのか迫ってきている感じがする。フラッシュもちょっと強い。,"Scary. It feels like it's coming at me, maybe a wide-angle lens is being used. The flash is a bit strong.",2,2,4,2,2,2,3,3,5,4,4,5,1,1,1,5,3,5,5,2,1,1
+CAT_00-00000001_024,4,瞳が細くてちょっと怖いけど、全体的にきちんと撮れている印象。,"The eyes are narrow and a bit scary, but overall, the image looks well captured.",4,2,5,4,3,5,4,4,5,3,3,5,1,1,1,4,5,5,4,3,4,4
+CAT_00-00000001_027,4,雑誌に対して何か考えていそうなところが、ストーリー性があって良い,"The fact that it seems to be thinking about something in relation to the magazine gives it a sense of story, which is good.",4,5,2,2,3,4,3,4,3,1,1,5,1,1,5,1,5,5,2,1,5,2
+CAT_00-00000002_001,4,イカ耳がちょっと気になるけど、毛の詳細まで解像されている＆背景がボケてて猫にフォーカスされているところが写真として良い,"The squid-like ears are a bit of a concern, but the detail in the fur and the blurred background focusing on the cat makes for a good photo.",2,2,5,4,3,5,4,5,5,2,4,5,3,1,1,2,5,5,5,5,5,5
+CAT_00-00000002_003,4,よく解像されている。表情も何かを訴えかけている感じが良い。背景もボケててよい。,It's well-resolved. The expression that seems to be appealing something is good. The blurred background is also good.,3,2,4,4,2,5,4,4,5,2,4,5,3,1,1,5,5,5,5,5,5,5
+CAT_00-00000002_008,1,猫の顔が識別しづらい。色も全体的に黄色っぽい。,The cat's face is hard to identify. The color is also overall yellowish.,2,2,2,1,5,5,2,2,2,5,1,2,4,1,1,1,5,5,2,3,5,4
+CAT_00-00000003_009,2,顔が識別しづらい。光がちょうど目のところに当たっていて、余計に見づらい。,"The face is hard to identify. The light hits right in the eyes, making it even harder to see.",2,1,4,2,2,5,3,2,2,1,4,3,5,1,1,5,5,5,2,1,5,1
+CAT_00-00000003_013,2,光の関係か全体的にボケている印象,"The impression is that the whole thing is blurred, possibly due to the light.",4,3,3,2,3,5,2,2,3,1,1,5,1,1,1,1,5,5,1,3,5,2
+CAT_00-00000003_015,4,かっこいい。黒猫なのにきちんと毛が解像されていて素晴らしい。表情も凛々しい。,"Cool. Despite being a black cat, the fur is clearly visible, which is wonderful. The expression is also gallant.",2,1,5,4,1,5,5,4,5,3,3,5,5,1,1,1,5,5,5,3,5,2
+CAT_00-00000003_020,2,怖い。瞳が細いのとフラッシュが強すぎて怖い。,Scary. The narrow pupils and the overly strong flash are scary.,2,2,3,3,1,3,3,2,5,2,4,5,3,1,2,3,2,5,5,3,1,1
+CAT_00-00000003_024,2,フラッシュ強いし、瞳もちょっと怖いし、ポーズも好きじゃない。,"The flash is strong, the eyes are a bit scary, and I don't like the pose.",3,1,1,2,1,2,3,1,5,1,4,5,3,1,1,5,2,5,4,1,1,2
+CAT_00-00000003_026,4,驚いている表情が良い。子猫なのも相まってストーリー性があって好き。,"The surprised expression is good. The fact that it's a kitten adds a sense of story, which I like.",3,5,1,3,2,3,3,4,4,5,3,5,3,1,1,1,5,5,4,3,2,3
+CAT_00-00000004_007,2,猫の顔が識別しにくい,The cat's face is hard to identify.,2,1,4,2,2,5,4,3,2,3,3,4,5,4,1,5,2,5,1,1,5,5
+CAT_00-00000004_008,4,周りの文言とかはない方がいいが、猫の表情はよい。,"It would be better without the surrounding text, but the cat's expression is good.",3,3,3,4,3,4,4,4,4,4,4,5,2,1,2,5,5,1,4,2,4,3
+CAT_00-00000004_018,2,表情が好きじゃない。体勢も気になる。,I don't like the expression. The posture is also of concern.,2,1,1,2,2,3,4,1,5,1,1,5,3,1,1,1,5,5,4,1,2,2
+CAT_00-00000005_001,4,何かを訴えかける目がいい。毛並みもよく撮れている,The eyes that seem to appeal something are good. The fur is also well captured.,3,3,4,3,2,2,3,4,5,5,4,5,3,1,1,5,5,5,4,2,2,2
+CAT_00-00000005_017,2,表情が好きじゃない。体勢も一瞬認識しにくい。,I don't like the expression. The posture is also difficult to recognize for a moment.,3,2,4,2,2,2,3,2,4,2,2,4,2,1,3,5,5,5,4,3,2,2
+CAT_00-00000005_023,4,目がちょっと気になるが、毛並みはよく撮れている。,"The eyes are a bit concerning, but the fur is well captured.",2,2,3,3,1,4,3,3,4,5,1,4,3,1,1,5,5,5,4,1,4,3
+CAT_00-00000006_008,2,自然光なのは気持ちよさそうでいいのに、猫の表情が好きじゃない,"The natural light seems comfortable and nice, but I don't like the cat's expression.",3,2,2,2,3,4,3,2,4,2,2,4,2,2,2,4,5,5,3,3,5,5
+CAT_00-00000006_009,4,自然光で毛並みも改造されていて、背景もボケていて可愛い。木にしがみついていそうなポーズも良い。,"The natural light enhances the fur, and the blurred background is cute. The pose, as if clinging to a tree, is also good.",4,4,4,4,3,4,3,4,4,2,2,4,3,3,2,3,5,5,4,5,4,4
+CAT_00-00000006_013,2,暗くて猫が識別しにくい,It's dark and hard to identify the cat.,2,2,3,1,3,5,3,2,2,1,2,1,3,1,1,5,5,5,2,2,2,2
+CAT_00-00000006_016,1,怖い。表情もそうだが、強い光のフラッシュが下から当たっていて、影の方向が不自然になっているので余計に怖い。,"Scary. Not just the expression, but the strong flash of light from below and the unnatural direction of the shadow make it even more scary.",1,1,3,1,1,1,4,2,4,2,2,4,5,1,1,5,1,5,3,1,1,1
+CAT_00-00000006_022,5,柔らかい光で子猫の柔らかさがよく表現されている。何かを探している表情やポーズも良い,The soft light nicely expresses the softness of the kitten. The expression and pose as if searching for something are also good.,5,5,3,3,5,5,2,5,5,3,2,5,3,2,2,1,5,5,3,3,5,5
+CAT_00-00000006_024,4,フラッシュの光がちょっと硬いが、子猫自体は可愛い,"The flash light is a bit harsh, but the kitten itself is cute.",4,5,2,3,2,2,3,4,5,3,2,5,3,1,1,2,5,5,4,1,1,1
+CAT_00-00000006_025,5,すこし緑被りしているが、猫に乗った猫というシーンもいいし、この距離でカメラ目線なのもいい。,"It's a bit greenish, but the scene of a cat riding on another cat is good, and it's nice that it's looking at the camera from this distance.",4,3,4,4,4,5,3,4,5,2,2,4,2,4,3,5,5,5,5,4,5,5
+CAT_00-00000007_002,2,少し遠い＆模様から顔を識別しにくい,It's a bit far & the face is hard to identify from the pattern.,4,2,2,2,3,5,3,3,3,1,2,4,3,4,1,1,5,5,3,1,5,5
+CAT_00-00000007_005,2,黒い模様と瞳が大きくほとんど黒い目なので識別しにくい,"It's hard to identify because of the black pattern and large, almost black eyes.",1,1,4,3,1,3,3,2,4,1,2,5,3,1,3,5,5,5,5,4,3,3
+CAT_00-00000007_007,5,かわいい！瞳の色も綺麗。毛並みもよく解像されている。吹き出しは余計だけど、写真にあってはいる。,"Cute! The color of the eyes is also beautiful. The fur is also well-resolved. The speech bubble is unnecessary, but it fits the photo.",5,4,4,5,5,5,4,5,5,5,5,5,3,1,3,1,5,2,4,1,5,3
+CAT_00-00000007_013,4,何を考えているのかわからない表情が気になる。被写界深度が浅いので体の毛並みまでボケているのはちょっと勿体無い,The expression that makes you wonder what it's thinking about is intriguing. It's a bit of a waste that the depth of field is shallow and the fur of the body is blurred.,2,4,4,3,2,3,4,4,5,3,2,5,4,1,3,5,5,5,4,3,3,3
+CAT_00-00000007_014,2,アップすぎてちょっと怖い。,It's too close up and a bit scary.,2,3,3,2,3,3,3,2,3,5,3,4,3,1,3,5,4,5,5,1,2,4
+CAT_00-00000007_022,5,かっこいい。顔は識別できないけど、逆光気味の測光で身体のラインが際立っているのと、空気中にまっている草がかっこいい,"Cool. I can't identify the face, but the silhouette from the backlight and the grass floating in the air look cool.",3,1,5,4,2,5,2,2,3,1,1,3,3,4,1,4,2,5,1,4,5,2
+CAT_00-00000008_029,2,背景と同化して識別しづらい,It's hard to identify because it blends in with the background.,2,3,2,2,3,3,2,2,1,4,3,2,5,1,2,2,5,5,2,3,2,2
+CAT_00-00000009_004,4,毛並みもよく解像されていて、何かを狙っている感じもストーリー性があってよい。背景もよくボケていて、周辺減光も味があってよい,"The fur is well-resolved, and the feeling of aiming at something has a good sense of story. The background is nicely blurred, and the vignetting adds a nice touch.",4,3,3,3,4,5,3,4,5,4,2,5,3,1,1,1,5,5,4,4,5,5
+CAT_00-00000009_005,4,隠れて何かを狙っている感じがストーリー性があってよい。全体的に緑なのも印象が良い,The feeling of hiding and aiming at something has a good sense of story. The overall green is also impressive.,5,4,2,2,3,5,3,3,3,1,1,5,3,4,1,2,5,5,3,1,5,5
+CAT_00-00000009_009,2,毛並みはよく改造されていて美しいけど、目が少し怖い。,"The fur is well-transformed and beautiful, but the eyes are a bit scary.",2,2,2,3,2,4,4,2,5,3,5,5,2,1,4,2,4,5,5,4,4,4
+CAT_00-00000009_013,4,何かをじっと見ている感じがよい。斜め下から柔らかい自然光で照らされている光の向きが独特だが、余計に想像力を掻き立てる描写になっていてよい。目の色も綺麗。,"The feeling of staring at something is good. The light direction from the soft natural light from below is unique, which further stimulates the imagination and makes for a good depiction. The color of the eyes is also beautiful.",4,2,4,4,3,5,4,4,5,4,5,4,3,1,1,1,5,5,4,1,4,4
+CAT_00-00000009_016,2,ポーズが好きじゃない,I don't like the pose.,4,2,2,3,3,5,4,2,5,3,3,5,1,1,5,4,4,5,4,1,5,5
+CAT_00-00000009_026,4,何かを影から狙っているのが可愛い。ストーリー性がある,It's cute to see it aiming at something from the shadows. There's a sense of story.,4,4,2,3,4,5,3,4,4,3,3,4,3,1,3,1,5,5,3,4,4,3
+CAT_00-00000010_027,2,表情が怖い。フラッシュの光が強すぎる。,The expression is scary. The flash light is too strong.,2,2,4,2,1,2,5,2,5,2,3,5,5,1,1,5,3,5,5,1,1,1
+CAT_00-00000010_028,4,少し首を傾げたポーズが可愛い。毛並みもよく解像されており、背景がボケているのも良い。,"The slightly tilted head pose is cute. The fur is well-resolved, and the blurred background is also good.",4,2,5,3,4,4,3,4,4,3,3,4,4,1,1,3,5,5,4,5,4,3
+CAT_00-00000010_029,2,目が怖い。フラッシュが強すぎる。,The eyes are scary. The flash is too strong.,2,1,4,4,1,2,4,2,5,1,4,5,3,1,1,5,2,5,3,1,1,1
+CAT_00-00000011_003,4,白い雪の中に佇む猫というシチュエーションが良い。,The situation of a cat standing in the white snow is good.,4,1,3,3,2,3,3,3,5,2,3,5,2,1,1,5,2,5,3,2,2,4
+CAT_00-00000011_004,4,好奇心旺盛な感じが表現されている。,The feeling of curiosity is well-expressed.,3,4,2,2,3,3,3,4,5,5,3,4,4,1,2,3,3,5,4,1,1,1
+CAT_00-00000011_007,4,猫と同じ目線で撮っているのが良い。猫の表情もポーズによくあっている。,It's good that it was taken from the same perspective as the cat. The cat's expression matches the pose well.,4,4,4,4,3,5,3,5,5,4,4,5,3,1,1,5,5,5,4,3,4,4
+CAT_00-00000011_010,4,草陰に潜んで何かを狙っている感じがする,It feels like it's lurking in the grass and aiming at something.,3,1,4,3,3,5,2,3,4,3,3,5,4,4,3,4,2,5,4,3,5,3
+CAT_00-00000011_014,2,目が光って勿体無い,It's a pity that the eyes are glowing.,1,1,3,3,1,2,3,1,5,1,3,5,3,1,1,5,1,5,3,1,1,1
+CAT_00-00000011_017,4,キリリとした良い表情。毛並みもよく解像されている,A sharp and good expression. The fur is also well-resolved.,3,1,5,3,3,4,3,4,5,5,4,5,4,1,2,4,4,5,5,4,1,2
+CAT_00-00000011_020,4,何かに集中している表情が良い。背景のボケも程よい,The expression of being focused on something is good. The blurred background is also moderate.,4,4,3,3,4,4,3,4,5,3,3,4,3,3,2,2,5,5,4,4,4,3
+CAT_00-00000011_025,4,何かを狙っている様子を猫と同じ目線から撮っているのがよい,"It's good that it was taken from the same perspective as the cat, who seems to be aiming at something.",3,2,2,2,4,5,2,2,3,2,2,4,3,3,3,2,5,5,3,3,5,3
+CAT_00-00000011_027,2,目が怖い,The eyes are scary.,2,1,3,3,1,5,3,2,5,1,3,5,1,1,4,5,5,5,3,1,5,1
+CAT_00-00000013_009,2,目が識別しづらい。写真全体が色かぶりしている,It's hard to identify the eyes. The entire photo has a color overlap.,4,3,3,3,5,5,2,2,2,1,1,2,4,1,1,5,5,5,2,1,2,4
+CAT_00-00000013_011,4,丸い目が可愛い。,Round eyes are cute.,4,4,3,4,5,5,3,4,5,4,4,5,2,1,4,2,5,5,4,4,2,4
+CAT_00-00000013_017,2,水平が取れていないのが違和感,The absence of a horizontal line feels unnatural.,2,2,2,2,2,5,2,2,2,1,3,5,4,1,2,5,5,5,3,1,3,2
+CAT_00-00000013_021,4,かっこいい。毛並みもよく解像されており、煽り気味なアングルもよい。背景もよくボケている。,"Cool. The fur is well-resolved, and the provocative angle is also good. The background is also nicely blurred.",4,1,5,4,3,5,3,5,5,2,3,5,3,1,2,2,4,5,4,4,3,5
+CAT_00-00000013_022,4,表情が瞬間を切り取っている感じがして良い。毛並みもよく解像されており、煽り気味なアングルもよい。背景もよくボケている。,"The expression feels like it's capturing a moment, which is good. The fur is well-resolved, and the provocative angle is also good. The background is also nicely blurred.",4,3,4,4,5,5,3,5,5,1,1,5,3,1,2,1,5,5,4,4,3,5
+CAT_00-00000013_025,2,表情がつまらなそう,The expression looks boring.,3,1,3,2,2,5,3,2,5,1,1,5,1,1,1,4,5,5,3,1,5,5
+CAT_00-00000013_029,4,そろりと移動しようとしている瞬間を切り取った感じがストーリー性があって良い。毛もよく解像しており、表情もいい。自然光の光も綺麗。,"The moment of slowly trying to move has a good sense of story. The fur is also well-resolved, and the expression is good. The natural light is also beautiful.",3,4,4,4,2,4,3,5,5,4,4,5,3,1,3,2,4,5,4,4,4,4
+CAT_00-00000014_001,2,表情にピントがあっていない気がする,I feel that the focus is not on the expression.,3,2,2,3,2,5,3,3,5,2,3,5,3,1,3,3,5,5,4,2,5,4
+CAT_00-00000014_003,2,顔の模様が気になる,I'm curious about the pattern on the face.,4,2,2,2,3,4,3,2,5,2,3,4,2,1,4,5,5,5,3,1,2,2
+CAT_00-00000015_000,4,一瞬識別しにくいけど、物陰から様子を窺っている感じが可愛い。ストーリー性を感じる。,"It's hard to identify for a moment, but it's cute to feel it peeping from behind something. It gives a sense of story.",3,3,4,3,2,5,3,4,5,2,3,4,3,1,2,5,4,5,3,2,4,3
+CAT_00-00000015_013,2,ちゃんと解像しているのは良いが、ぱっと見で猫の顔以外が識別しにくい。,"It's good that it's well-resolved, but at first glance, it's hard to identify anything other than the cat's face.",4,4,3,3,4,5,3,3,2,3,3,5,3,3,3,3,4,5,4,1,5,3
+CAT_00-00000015_016,2,猫と背景が識別しにくい,It's hard to differentiate the cat from the background.,2,2,4,3,2,2,4,3,2,2,4,5,5,1,1,5,3,5,3,1,1,1
+CAT_00-00000015_018,2,猫の顔がもっとちゃんとわかる方がよい,It would be better if the cat's face was more clearly understood.,2,2,3,3,2,5,2,2,4,2,2,3,5,1,1,5,3,5,3,1,4,4
+CAT_00-00000015_019,2,目が光ってしまっている,The eyes are glowing.,1,1,3,2,1,2,3,1,5,1,2,5,5,1,1,5,1,5,3,1,1,1
+CAT_00-00000015_020,4,怠惰な感じが出てて良い。,The lazy feel is good.,5,4,2,3,4,5,3,4,5,1,2,4,3,2,1,2,5,5,3,1,5,4
+CAT_00-00000015_026,2,フラッシュが強すぎる。,The flash is too strong.,3,3,2,2,3,3,3,2,2,2,3,4,3,1,1,2,4,5,2,1,1,1
+CAT_00-00000015_028,1,ぬいぐるみが好きじゃない。猫の顔も模様と光と表情が相まって認識しづらい,"I don't like stuffed animals. It's hard to recognize the cat's face because of the combination of patterns, light, and expression.",3,2,3,2,3,4,3,3,2,1,1,2,4,1,2,1,5,5,3,3,4,3
+CAT_00-00000015_029,4,緑の背景に白の猫がよく映えている。意気揚々と歩いているかんじも良い。,The white cat stands out well against the green background. The feeling of walking proudly is also good.,4,4,4,4,3,5,4,5,5,2,3,5,1,5,5,2,4,5,3,2,5,2
+CAT_00-00000016_013,5,子猫の可愛さがよく表現されている。猫自体も可愛いし、背景の色も子猫によくあっている。,"The cuteness of the kitten is well expressed. The cat itself is cute, and the color of the background also matches the kitten well.",5,5,2,3,5,5,3,4,5,4,3,5,3,1,1,2,4,5,3,3,3,4
+CAT_00-00000016_018,2,目がまんまるなのは面白いが、背景と画角がもう少し違うとよかった。文字もいらない。,"It's interesting that the eyes are round, but it would have been better if the background and the angle of view were a bit different. Text is also unnecessary.",2,2,2,2,2,3,3,2,4,2,3,5,4,1,3,2,4,2,3,1,1,1
+CAT_00-00000016_019,2,逆光で目に光がなくて怖い,It's scary that there's no light in the eyes because of the backlight.,2,2,2,2,2,5,2,2,5,1,2,2,1,1,4,5,5,2,3,1,5,2
+CAT_00-00000016_022,5,可愛い。測光で片方の目にアイキャッチがベストポジションに入っているのがより可愛さを際立たせいている。毛並みもよく解像されている。,Cute. The fact that one eye is in the best position for an eye-catch in photometry makes it stand out even cuter. The fur is also well-resolved.,5,5,3,4,5,5,3,4,5,5,3,3,3,1,1,5,5,5,4,4,5,5
+CAT_00-00000017_000,4,黒猫なので白黒写真がよく映える。毛並みを表現するために背景が白飛びするくらい明るくしているが、それも猫に視線を集中させられていて良い。,"The black and white photo looks good because it's a black cat. The background is made bright enough to be blown out to represent the fur, but that also helps focus the gaze on the cat, which is good.",3,2,5,4,3,3,4,4,3,2,3,4,5,1,1,2,4,5,5,2,2,2
+CAT_00-00000017_001,2,水平が取れていないので不安になる。,I feel uneasy because it's not level.,4,2,2,2,4,4,3,2,5,1,1,5,1,1,5,5,5,5,3,1,2,4
+CAT_00-00000017_002,2,人が写っていると視線が散らばって猫に集中できない,I can't focus on the cat because the gaze is scattered when people are in the picture.,4,4,3,3,5,5,3,5,5,5,4,5,1,1,5,5,5,5,3,1,2,2
+CAT_00-00000017_003,2,模様が好みじゃない,I don't like the pattern.,2,2,2,2,2,3,2,2,2,3,3,5,4,5,2,5,4,5,4,4,3,3
+CAT_00-00000017_007,4,かっこいい。黒猫かダークグレーの毛並みが測光気味の光でよく認識できる解像感がよい。,Cool. The resolution that allows you to recognize the fur of a black cat or dark grey cat well with the light that seems to be photometric is good.,5,4,5,5,5,4,5,4,5,5,4,5,5,1,1,5,5,5,5,1,2,4
+CAT_00-00000017_008,4,光の柔らかさと猫の表情が気持ちよさそう。,The softness of the light and the expression of the cat seem comfortable.,5,5,2,3,5,5,3,5,3,1,1,4,3,2,1,1,5,5,3,2,5,2
+CAT_00-00000017_019,4,猫にピントが合ってて背景がボケているのがよい。毛並みもよく解像されている。,It's good that the focus is on the cat and the background is blurred. The fur is also well-resolved.,3,3,3,3,2,5,3,4,4,1,2,4,3,3,1,5,5,5,4,4,5,2
+CAT_00-00000017_020,5,猫の顔にピンとが合っていて、それ以外はボケているので、視点が猫の顔に集中しやすく見やすい。,"The focus is on the cat's face and everything else is blurred, making it easy to focus on the cat's face and easy to see.",5,4,2,4,3,5,3,5,5,1,2,5,3,1,1,4,5,5,4,5,5,3
+CAT_00-00000018_029,2,表情があまり可愛くない。周りの枠や文字も不要,The expression is not very cute. The surrounding frame and text are also unnecessary.,3,2,2,3,2,5,3,2,5,1,2,5,3,1,3,4,5,1,4,1,5,5
+CAT_00-00000019_004,4,驚いていそうな表情が瞬間をよく切り取れている。ポーズは至って普通だが、目だけでストーリー性を感じる。,"The surprised expression captures the moment well. The pose is quite normal, but I can feel a story just from the eyes.",2,2,2,2,1,3,3,5,5,5,4,5,3,1,1,2,4,5,4,5,2,3
+CAT_00-00000019_015,2,目の色と口と表情が怖い,"The color of the eyes, the mouth, and the expression are scary.",1,1,3,3,2,2,3,2,5,5,3,5,3,1,1,5,5,5,4,3,1,1
+CAT_00-00000019_020,2,模様と左からのオレンジの光が相まって少し見づらい＆怖い,The pattern and the orange light from the left make it a little hard to see and scary.,2,2,4,2,2,5,2,2,2,3,3,3,4,1,1,2,4,5,3,1,5,4
+CAT_00-00000019_025,4,逆光気味で身体のラインが光っていて神々しい,"The body lines are glowing in a backlit manner, which is divine.",4,3,4,4,4,4,5,4,5,4,3,4,1,1,5,1,5,5,4,4,2,3
+CAT_00-00000019_026,2,顔が怖い。陰影がはっきりしすぎている,The face is scary. The shading is too clear.,3,2,4,3,2,2,2,3,4,3,1,2,1,1,5,1,5,5,2,4,1,1
+CAT_00-00000019_027,4,かくれんぼしてそうなのが可愛い,It's cute that it seems to be playing hide and seek.,5,5,1,3,3,5,3,5,4,3,3,5,3,1,1,5,5,5,3,4,5,5
+CAT_00-00000020_001,4,怒られてしょんぼりしていそうなストーリー性を感じる,I feel a storyline of it being scolded and looking dejected.,5,5,3,3,4,5,3,5,5,5,4,5,3,2,3,2,5,5,4,4,5,5
+CAT_00-00000020_005,2,ピンボケしている感じがする,It feels out of focus.,2,2,2,2,2,5,2,2,2,1,1,3,3,1,3,5,5,5,1,5,4,4
+CAT_00-00000020_006,2,目が光ってて怖い。フラッシュが強すぎる,The glowing eyes are scary. The flash is too strong.,1,1,3,2,1,1,3,1,5,2,2,5,3,4,2,5,1,5,3,1,1,1
+CAT_00-00000020_015,2,目にピンとがあっていないように感じる,It feels like the focus isn't on the eyes.,4,3,3,2,4,5,4,5,3,4,3,4,1,1,5,5,5,5,1,2,5,5
+CAT_00-00000020_018,4,毛の解像感すごい。目は怖いけど、なんかかっこよさになっている感じがする。,"The resolution of the fur is amazing. The eyes are scary, but they somehow seem cool.",3,1,5,4,2,5,3,5,5,2,3,5,4,3,2,5,5,5,5,5,5,5
+CAT_00-00000021_008,4,顔立ちが整ってて目の色も綺麗,The face is well-proportioned and the eye color is beautiful.,1,4,4,4,5,5,3,5,5,5,5,5,4,1,2,5,5,2,4,1,5,4
+CAT_00-00000021_018,2,表情が識別しづらい,The expression is hard to distinguish.,2,2,4,2,2,4,3,2,2,4,4,2,5,1,1,5,5,5,2,3,2,2
+CAT_00-00000022_005,2,表情が可愛くない。測光が少し強すぎて白飛びしている感じがする,The expression is not cute. It feels like the photometry is a bit too strong and it's blowing out the whites.,2,1,1,2,2,4,2,2,2,3,3,5,2,1,2,5,4,5,2,1,4,3
+CAT_00-00000022_010,4,表情は識別できないけど、黄昏ている感じがよい。猫にピントが合っていて背景がボケているのも良い。,"I can't identify the expression, but the twilight feel is good. It's also good that the cat is in focus and the background is blurred.",5,3,3,5,5,5,3,4,5,1,3,5,3,1,2,1,5,5,3,5,5,2
+CAT_00-00000022_021,2,フラッシュが強すぎる。模様も相まって表情が識別しにくい,The flash is too strong. The pattern also makes it hard to identify the expression.,2,1,1,1,3,2,2,2,2,1,1,3,4,1,2,5,2,5,3,3,1,1
+CAT_00-00000022_024,4,良い表情。舌舐めずりしている感じが獲物を狙っている感あって良い,"Good expression. The feeling of licking its lips gives the impression that it's targeting prey, which is good.",3,3,4,2,3,3,3,5,2,3,3,3,4,1,2,5,5,5,3,3,1,1
+CAT_00-00000022_028,4,何かを訴えかける表情がストーリー性があってよい。目にアイキャッチが入っているのも良い,An expression that appeals to something has a good storyline. It's also good that there's an eye-catch in the eyes.,5,4,3,3,5,5,3,4,5,5,3,4,3,1,1,2,4,5,3,5,3,4
+CAT_00-00000023_001,2,表情が可愛くない。フラッシュの光が人工的な印象を与える,The expression is not cute. The light of the flash gives an artificial impression.,1,1,1,2,1,3,3,1,5,1,3,5,2,1,4,4,5,5,4,1,1,3
+CAT_00-00000023_007,4,目がクリクリしていて、体勢も甘えている感じが可愛い。,The twinkling eyes and the posture that seems to be asking for pampering are cute.,5,5,4,4,5,5,4,5,5,4,3,5,3,2,1,5,5,5,4,3,5,5
+CAT_00-00000023_020,2,フラッシュが強すぎる。表情も不機嫌そう。,The flash is too strong. The expression also looks unhappy.,2,2,2,2,2,2,3,2,5,5,3,5,3,1,1,5,5,5,5,2,1,1
+CAT_00-00000024_000,2,模様も相まって表情が識別しづらい,The pattern also makes it hard to distinguish the expression.,2,1,1,1,2,3,2,1,2,2,2,5,3,1,3,2,4,5,3,2,1,2
+CAT_00-00000024_001,2,目が赤くてちょっと怖い,The eyes are red and a little scary.,1,2,2,2,1,2,3,2,4,5,2,5,2,1,4,5,5,5,3,1,1,1
+CAT_00-00000024_012,5,顔にだけピントを合わせて他をボケさせることでうとうとしていて眠そうな瞬間を表現していてよい,"It's good that by focusing only on the face and blurring everything else, it expresses a moment where it seems to be dozing off and looks sleepy.",5,5,4,4,5,5,4,5,5,1,1,5,3,1,2,1,5,5,4,5,5,2
+CAT_00-00000024_018,4,白黒でぱっと見わかりづらいが、猫にピントがあっていて毛並みまでよく解像されていてよい。,"It's difficult to tell at first glance because it's in black and white, but it's good that the cat is in focus and the fur is well resolved.",4,2,4,3,3,5,3,3,3,1,1,4,4,1,1,1,5,5,4,5,5,4
+CAT_00-00000024_024,2,目が怖い,The eyes are scary.,1,2,3,2,1,3,3,1,5,3,3,5,4,1,1,5,2,5,4,5,1,3
+CAT_00-00000025_013,4,黄昏ている表情が良い。自然光の当たり具合もちょうどいい,The twilight expression is good. The natural lighting is just right.,5,4,4,4,5,5,4,5,5,5,5,4,3,1,1,2,5,5,4,4,5,2
+CAT_00-00000025_015,2,表情が怖い。フラッシュの光が硬すぎる,The expression is scary. The flash light is too harsh.,2,3,4,3,1,1,3,2,5,4,4,5,3,1,1,2,5,5,4,3,1,1
+CAT_00-00000025_018,2,表情が怖い,The expression is scary.,2,2,3,2,1,4,4,2,5,2,2,5,1,1,5,4,4,5,4,3,3,3
+CAT_00-00000025_022,2,フラッシュの光が強すぎる。目が光っていて怖い,The flash light is too strong. The eyes are glowing and it's scary.,2,2,4,3,2,2,3,2,4,2,3,5,3,3,1,5,2,5,4,1,1,1
+CAT_00-00000026_009,2,猫のポーズが少し中途半端な感じがする,The pose of the cat feels a bit incomplete.,4,3,2,2,4,3,3,2,3,2,2,5,1,1,4,1,5,5,3,1,1,1
+CAT_00-00000026_011,2,ぱっと見で猫の表情が識別しづらい,It's difficult to identify the expression of the cat at first glance.,4,2,2,2,5,3,3,2,2,1,1,5,1,1,2,1,5,5,3,1,2,2
+CAT_00-00000026_015,2, 表情がちょっと不機嫌そう。,The expression looks a little unhappy.,2,2,4,3,2,5,3,2,4,2,3,3,3,1,3,4,5,5,3,1,5,1
+CAT_00-00000026_016,2,目だけ光ってて怖い。表情が識別できない,Only the eyes are glowing and it's scary. The expression cannot be identified.,2,2,4,3,1,5,4,2,2,1,3,5,5,4,1,3,1,5,3,1,5,1
+CAT_00-00000026_024,2,フラッシュの光が強すぎる。,The flash light is too strong.,2,2,4,3,3,1,3,3,5,5,3,5,3,1,3,5,5,5,3,1,1,1
+CAT_00-00000026_026,4,何かを訝しんでいる表情が可愛い。目の色も綺麗。,The expression of being puzzled is cute. The eye color is beautiful.,4,2,4,3,3,4,3,5,5,5,4,5,3,1,1,5,5,5,4,5,3,3
+CAT_00-00000026_027,2,逆光で表情がよく見えない,The expression is not clearly visible due to backlighting.,5,2,2,2,3,5,2,2,2,1,1,2,3,1,3,4,5,5,2,3,5,3
+CAT_00-00000027_019,4,物陰から何かを見つめる表情が良い,The expression of staring at something from behind an object is good.,5,3,4,4,5,5,4,5,4,4,3,5,3,5,3,2,4,5,4,3,5,5
+CAT_00-00000027_020,2,表情が可愛くない。上からの光が強すぎて陰影のつき方が不自然,"The expression is not cute. The top-down light is too strong, creating unnatural shadows.",1,1,2,2,1,3,3,1,5,4,3,5,2,2,4,5,5,5,4,5,4,3
+CAT_00-00000029_029,4,イタズラがバレた時みたいな表情の瞬間を切り取れていてよい,It's good to capture the moment of an expression that looks like it's been caught in the act.,5,5,3,4,3,5,4,5,5,5,5,5,1,1,5,5,5,5,4,1,4,3
+CAT_00-00000030_006,2,顔が識別しにくい,The face is hard to identify.,2,1,4,2,1,5,2,1,1,3,3,2,4,1,1,2,4,5,3,1,5,1
+CAT_00-00000030_012,5,美しい。ちょっと身体のふわふわは気になるけど、それ以上に顔が美しい。目の色も綺麗。模様も綺麗。,"Beautiful. The slightly fluffy body is a bit distracting, but the face is even more beautiful. The eye color is beautiful, and the pattern is beautiful.",5,4,5,5,5,5,5,5,5,5,5,5,2,1,3,2,5,5,5,3,5,2
+CAT_00-00000030_022,2,痩せすぎててちょっと心配,It's too skinny and a bit worrisome.,2,3,1,1,2,3,1,2,5,4,3,5,5,1,1,5,5,5,3,3,3,3
+CAT_00-00000031_004,4,首の傾げ方が可愛い。,The way it tilts its head is cute.,5,5,2,3,5,5,3,4,5,4,4,5,3,2,1,2,5,5,4,4,5,4
+CAT_00-00000031_019,1,水平が取れていなくて不安になる,It's unsettling that it's not level.,2,2,4,4,3,4,4,4,2,4,3,3,4,1,1,5,5,5,3,1,5,1
+CAT_00-00000032_019,2,目の色が怖い,The eye color is scary.,2,2,3,2,1,3,3,2,5,2,3,5,3,1,3,5,1,5,4,1,1,1
+CAT_00-00000032_026,4,緑の芝で何かを狙っていそうな目線なのが良い,It's good that it has a gaze that seems to be targeting something on the green grass.,5,4,3,3,4,5,3,5,5,1,2,5,3,5,3,1,5,5,3,3,5,5
+CAT_00-00000033_009,2,表情が怖い,The expression is scary.,1,2,2,2,2,3,4,2,4,4,3,5,3,1,2,2,4,5,3,1,1,4
+CAT_00-00000033_011,2,目が怖い。フラッシュが強すぎる。,The eyes are scary. The flash is too strong.,1,2,2,2,1,2,3,2,5,4,3,5,3,1,1,5,5,4,3,3,1,1
+CAT_00-00000033_017,4,前ボケが猫の視線の先をうまく誘導していて良い,"The foreground blur effectively guides the gaze of the cat, which is good.",5,3,3,3,4,5,3,3,5,2,2,5,2,1,4,5,5,5,3,1,5,5
+CAT_00-00000034_001,4,窓際でじっと何かを憂いている表情がいい。自然光の柔らかい光もよい,The expression of gazing at something with a sense of melancholy near the window is good. The soft natural light is also good.,4,4,3,3,4,5,3,4,4,4,3,5,3,1,3,2,5,5,4,3,5,5
+CAT_00-00000034_029,4,色味はあまりよくないが、猫の表情と非現実的なシチュエーションは面白い,"The color tones are not very good, but the expression of the cat and the surreal situation are interesting.",3,4,4,2,3,4,3,3,4,5,2,4,2,1,4,1,5,3,4,1,1,2
+CAT_00-00000035_004,4,何かを訴えかけてくる表情が可愛い。模様も目の色も綺麗,The expression that seems to appeal to something is cute. The pattern and eye color are beautiful.,4,2,4,4,3,5,3,4,5,5,5,5,3,1,3,5,5,5,4,4,5,4
+CAT_00-00000035_005,4,猫にピンとがあっており、背景がボケていて、毛がよく解像されている。舌舐めずりしている瞬間なのもストーリー性があって良い,"It's good that the cat is in focus, the background is blurred, and the fur is well resolved. It also has a storytelling aspect with the moment of licking its lips.",4,2,4,3,3,5,3,5,5,4,3,5,3,1,2,5,5,5,4,4,3,3
+CAT_00-00000036_016,4,表情は怖いのについ引き込まれる力がある。逆光でラインが綺麗に出ているのもよい,"Although the expression is scary, it has a captivating power. The backlighting enhances the lines and is also good.",2,2,4,2,2,4,3,3,5,2,2,5,1,1,5,1,5,5,3,4,5,2
+CAT_00-00000036_018,2,こわい。フラッシュが強すぎる。目は綺麗。,Scary. The flash is too strong. The eyes are beautiful.,2,2,2,2,4,1,2,2,4,5,4,5,2,1,3,2,5,5,4,3,1,1
+CAT_00-00000036_020,4,目が綺麗。凛々しい表情も良い,The eyes are beautiful. The dignified expression is also good.,4,2,4,4,4,4,3,4,4,5,5,5,2,1,4,2,5,5,3,1,5,3
+CAT_00-00000036_024,2,表情が不機嫌そうで怖い,The expression looks unhappy and scary.,1,1,4,2,1,5,3,1,4,1,2,4,3,1,1,5,5,4,3,1,5,2
+CAT_00-00000037_023,2,フラッシュが強すぎる。模様も相まって表情が分かりづらい,The flash is too strong. The pattern also makes it difficult to understand the expression.,1,1,2,1,2,2,2,2,2,2,3,4,4,1,1,5,5,5,3,1,1,1
+CAT_00-00000038_000,4,背景の周辺減光のように見える柔らかい光がつくる陰影が綺麗。そこに尻尾が映えるポーズもよい。,The soft light that creates shadows resembling vignetting around the background is beautiful. The pose that highlights the tail is also good.,4,2,4,4,3,5,3,4,4,2,2,5,3,1,3,5,5,5,3,1,5,4
+CAT_00-00000038_015,4,黒猫なのに綺麗に毛が解像されていてよい。,It's good that the fur is well resolved even though it's a black cat.,4,2,5,4,3,5,5,4,5,2,2,5,5,1,1,4,5,5,5,2,5,1
+CAT_00-00000039_000,4,下を出した表情が可愛い！自然光もいい感じ。前足のポーズはなんなのか気になる,The expression with the lower lip sticking out is cute! The natural light is also nice. I'm curious about the pose of the front paws.,4,5,3,3,3,3,3,5,3,1,1,4,3,1,2,2,5,5,2,3,5,1
+CAT_00-00000039_013,4,フラッシュがちょっと強いが、猫の目がクリクリしていて可愛い,"The flash is a bit too strong, but the cat's eyes are sparkling and cute.",5,5,3,4,5,4,3,5,5,5,3,5,3,1,1,2,5,5,3,2,1,1
+CAT_00-00000039_017,4,目が細くて怖いけどし光が強すぎるけど、物陰から眼光鋭く何か獲物を狙っていそうな感じがストーリー性があってよい,"The eyes are narrow and scary, and the flash is too strong. However, the feeling of the cat staring sharply from a hiding spot, seemingly aiming for prey, adds a good sense of storytelling.",2,2,4,3,1,3,3,4,4,4,3,4,3,1,1,4,2,5,4,2,2,2
+CAT_00-00000040_022,2,目に光がない。ピンとがあっていない感じがする,There is no light in the eyes. It feels like something is missing or not quite right.,3,3,2,3,2,5,3,3,5,1,1,4,3,1,1,2,5,5,4,3,3,5
+CAT_00-00000040_023,4,顔が可愛い。エリザベスカラーが余計に猫の顔を際立たせている,The face is cute. The Elizabethan collar further highlights the cat's face.,4,4,2,3,5,5,3,5,5,4,3,5,3,1,1,4,5,5,3,2,4,4
+CAT_00-00000040_025,4,綺麗な顔。陽光も気持ちよさそう,Beautiful face. The sunlight looks pleasant too.,5,3,4,4,5,5,3,4,5,4,3,5,3,3,2,2,5,5,3,1,5,3
+CAT_00-00000040_028,4,目がクリクリしてて可愛い。完全に顔にピントが合っていて、際立っている,"The eyes are sparkling and cute. The focus is perfectly on the face, and it stands out.",5,4,4,4,5,5,3,5,5,5,4,5,3,1,1,5,5,5,5,5,3,3
+CAT_00-00000041_011,4,陽の光が気持ちよさそう。逆光気味の測光が綺麗さを演出している,The sunlight looks pleasant. The slightly backlit metering creates a beautiful effect.,3,1,4,3,2,5,4,3,4,1,3,5,5,1,1,5,5,5,4,1,5,2
+CAT_00-00000042_009,2,表情が怖い。フラッシュの光が強すぎる。,The expression is scary. The flash is too strong.,1,2,3,3,1,2,3,2,5,4,3,5,3,1,2,5,4,5,3,3,1,1
+CAT_00-00000042_020,2,怖い。フラッシュが強すぎる,Scary. The flash is too strong.,3,2,3,2,2,3,2,2,4,2,3,4,3,3,2,5,3,5,3,3,1,3
+CAT_00-00000043_013,4,木の上から何かを狙っている感じがストーリー性があってよい,The feeling of targeting something from above the tree is good for storytelling.,5,4,4,4,5,5,4,5,5,5,3,5,3,4,3,1,5,5,3,2,5,3
+CAT_00-00000043_021,4,ちょこんと座っている感じが可愛い。さらに俯瞰のアングルがより猫の小ささを表現していて良い,"The sitting posture is cute, and the overhead angle expresses the smallness of the cat even more, which is good.",4,4,3,3,3,5,3,4,5,2,3,5,3,1,1,5,5,5,3,3,3,3
+CAT_00-00000045_002,2,フラッシュが強すぎる。表情が怖い,The flash is too strong. The expression is scary.,2,2,3,3,2,2,3,2,5,4,3,5,3,1,1,2,4,5,4,3,1,1
+CAT_00-00000045_014,2,黒すぎて表情が識別できない,It's too black to identify the expression.,3,1,4,2,2,5,3,2,1,2,3,1,5,2,1,4,5,5,1,3,5,5
+CAT_00-00000045_021,2,ポーズがぱっと見でよくわからない,The pose is not easily understood at first glance.,4,1,4,3,3,5,3,3,2,2,3,5,3,1,3,5,5,5,3,1,3,4
+CAT_00-00000045_028,1,目が光っていて怖い。表情も怖い。,The eyes are shining and scary. The expression is also scary.,1,1,1,1,1,1,3,1,4,1,1,3,4,1,1,5,1,5,3,1,1,3
+CAT_00-00000045_029,4,表情もポーズも可愛い。煽りアングルで青空が背景になっているのも良い,The expression and pose are cute. It's also good that the background is the blue sky in the teasing angle.,4,4,3,4,5,5,3,5,5,3,2,5,3,2,2,1,5,5,3,2,5,1
+CAT_00-00000046_016,5,静かな佇まいが綺麗。毛並みもよく解像されていて、背景のボケと相まって印象がいい。アイキャッチの位置も表情にあっている,"The calm posture is beautiful. The fur is well resolved, and the impression is enhanced by the bokeh of the background. The position of the eyecatch is also suitable for the expression.",4,2,5,5,3,5,4,5,5,5,4,5,4,2,1,5,5,5,5,4,5,4
+CAT_00-00000046_021,4,驚きの表情が良い,The expression of surprise is good.,2,3,3,3,3,3,3,4,3,5,3,3,5,1,1,2,5,5,2,2,1,1
+CAT_00-00000047_020,2,色温度が不健康そうに見える。,The color temperature looks unhealthy.,3,2,2,2,4,2,3,2,4,2,2,3,3,1,3,4,5,5,3,1,1,3
+CAT_00-00000047_025,2,フラッシュが強い。表情もわかりにくい,The flash is strong. The expression is also hard to understand.,4,2,2,2,3,3,3,2,2,1,3,4,3,1,2,1,5,5,3,1,1,1
+CAT_00-00000048_001,2,白黒で猫が識別しづらい,It's difficult to identify the cat in black and white.,4,4,2,2,3,5,2,3,1,3,1,3,3,1,3,5,5,5,3,1,5,3
+CAT_00-00000048_004,4,陽の光で生まれた陰影がかっこいい。草と青空と猫の色の対比もいい,"The shadows created by the sunlight are cool. The contrast between the grass, blue sky, and the color of the cat is also good.",3,2,5,5,2,4,3,4,3,4,3,3,3,4,1,5,5,5,3,4,5,1
+CAT_00-00000048_014,4,ぐうたらな感じが可愛い。肉球もよい。,The relaxed feeling is cute. The paw pads are also good.,5,5,3,3,5,5,3,5,5,1,3,5,3,1,4,1,5,5,3,5,5,5
+CAT_00-00000049_005,2,逆光で模様も相まって表情が識別できない,The expression cannot be identified well due to backlighting and the combination with the pattern.,4,1,4,2,3,5,3,2,1,1,2,2,4,1,3,4,5,5,3,5,5,2
+CAT_00-00000049_010,4,何かを狙っていそうな表情がいい。草むらと陽の光の雰囲気もいい,The expression that seems to be targeting something is good. The atmosphere of the grass and the sunlight is also good.,4,3,4,5,3,5,3,4,5,2,3,5,3,5,3,1,5,5,3,5,5,3
+CAT_00-00000049_012,2,色飛びするくらい明るくしているが、黒い色の部分があまり解像されていないので識別しづらい,"The image is overly bright, causing color distortion, and the black parts are not well resolved, making it difficult to identify.",3,1,4,2,2,3,2,2,1,2,1,3,4,1,3,1,5,5,2,3,1,3
+CAT_00-00000049_017,4,表情が良い。手のポーズも太々しい感じがでていていい,The expression is good. The confident pose of the hand is also impressive.,2,4,3,4,1,4,3,5,5,5,3,5,3,1,1,2,5,5,4,1,5,3
+CAT_00-00000049_026,2,表情が可愛くない。,The expression is not cute.,3,1,1,2,3,5,3,2,5,2,2,3,3,1,1,2,4,5,3,3,4,3
+CAT_00-00000050_007,2,横の人形が不要。猫の表情も識別しづらい,The side doll is unnecessary. It also makes it difficult to identify the cat's expression.,4,2,2,2,3,5,3,3,2,2,2,2,5,1,1,2,4,5,2,1,5,5
+CAT_00-00000050_008,2,表情が怖い。周りの枠や文字も不要,The expression is scary. The surrounding frame and text are also unnecessary.,1,1,3,1,1,2,3,2,4,2,3,5,3,1,2,5,5,1,3,1,1,2
+CAT_00-00000050_009,2,表情が怖い。目に光がない,The expression is scary. There is no light in the eyes.,1,1,3,2,1,5,2,2,4,1,2,5,3,3,1,4,5,5,3,2,5,4
+CAT_00-00000050_010,4,何かを狙っている目や体勢が良い。,The gaze and posture indicating that the cat is targeting something are good.,4,4,4,2,4,2,3,4,4,5,3,5,3,1,1,2,5,5,3,3,1,3
+CAT_00-00000050_014,2,パッと体勢を識別しにくい,It's difficult to quickly identify the posture.,2,1,1,1,3,4,2,2,2,2,2,4,3,1,2,5,5,5,3,3,4,4
+CAT_00-00000050_015,2,表情が暗い。周りの枠や文字も不要,The expression is dark. The surrounding frame and text are also unnecessary.,2,3,3,3,2,3,3,3,4,2,4,4,3,1,2,2,5,1,3,2,4,3
+CAT_00-00000051_006,2,表情が暗い。,The expression is dark.,2,2,2,2,1,3,3,2,5,2,3,5,3,1,1,2,5,5,3,1,1,1
+CAT_00-00000051_011,4,白線の上に白猫が座っているのがなんかよい,It's nice to see the white cat sitting on the white line.,3,2,4,4,3,5,3,3,4,2,2,4,1,1,4,2,4,5,3,4,5,5
+CAT_00-00000051_012,2,目が光ってて怖い,The eyes are shining and scary.,1,2,1,1,1,3,3,1,3,1,1,4,5,1,1,4,1,5,2,1,1,1
+CAT_00-00000052_010,4,限界まで欠伸しているのが、瞬間を切り取っている感じがしてよい,It's good to capture the moment when the cat is yawning to the fullest.,2,3,2,2,3,5,3,4,5,1,2,5,3,1,1,1,5,5,3,4,5,5
+CAT_00-00000053_006,2,フラッシュが強すぎる。水平が取れていないのも気になる,The flash is too strong. The lack of horizontal alignment is also a concern.,2,3,3,2,2,2,3,3,4,2,3,4,5,1,1,4,5,5,3,1,1,1
+CAT_00-00000053_027,4,堂々とした風格がかっこいい。猫にピントが合ってて背景がボケいていることや毛並みがよく解像されているのも良い,"The dignified demeanor is cool. It's good that the focus is on the cat and the background is blurred, and the fur is well resolved.",3,2,5,5,3,5,5,5,5,4,3,5,3,1,2,5,5,5,5,5,5,4
+CAT_00-00000054_015,5,猫にピンとがあってて背景がボケていることで猫に目線が行き、さらに猫も一点を見つめているので、すごく視線の誘導が上手,"The cat is sharply in focus, and the blurred background directs the viewer's gaze towards the cat. Additionally, the cat is also focused on a specific point, which skillfully guides the viewer's attention.",4,5,3,5,5,5,3,5,5,4,3,5,3,1,3,1,5,5,4,5,5,5
+CAT_00-00000054_029,4,体勢と表情とアイキャッチがすべてマッチしている。目がクリクリしていて可愛い,"The posture, expression, and eyecatch all match. The eyes are sparkling and cute.",4,4,4,4,5,5,3,5,4,5,1,2,3,1,1,5,5,5,4,5,5,5
+CAT_00-00000058_010,4,緑の中に一人佇んでいる姿がよい。,It's nice to see the figure standing alone in the greenery.,4,2,5,4,4,5,3,4,2,4,3,3,3,5,1,2,5,5,3,3,5,4
+CAT_00-00000058_023,4,じっと見つめる目とアイキャッチが可愛い。目の色も綺麗,The cute gaze and eyecatch of the cat staring intently are lovely. The color of the eyes is also beautiful.,4,4,3,4,5,5,3,4,5,5,4,5,2,1,4,5,5,5,4,3,3,3
+CAT_00-00000058_024,4,おとぼけ表情で首を傾げているのが可愛い。目の色も綺麗だしアイキャッチもよい。,The adorable expression with a tilted head and the beautiful eye color are lovely. The eyecatch is also well done.,5,5,2,3,5,5,3,5,5,5,4,5,2,1,4,5,5,5,3,2,4,3
+CAT_00-00000059_002,4,靴のサイズとの対比とポーズから子猫の可愛さをうまく表現している,The contrast with the shoe size and the pose effectively portrays the cuteness of the kitten.,4,5,2,3,3,5,3,5,3,4,3,5,4,1,3,4,5,5,3,2,4,4
+CAT_00-00000059_006,4,柱の奥からのぞいているのに尻尾が手前に巻き付いているのが面白い。,It's interesting how the tail is wrapped around the front while peeking from behind the pillar.,4,4,4,3,3,5,3,4,5,2,3,5,3,1,3,5,5,5,3,5,5,5
+CAT_00-00000059_015,4,凛々しい表情がかっこいい。メモ苦rクリしていて、アイキャッチもよい,The dignified expression is cool. The sharp focus and the eyecatch are also good.,4,2,5,5,5,5,4,5,5,5,4,4,4,2,1,4,4,4,4,3,4,4
+CAT_00-00000059_016,2,表情が怖い。目が半開き,The expression is scary. The eyes are half-open.,2,1,1,2,1,1,3,1,4,1,3,4,5,1,1,1,5,5,5,1,1,1
+CAT_00-00000059_018,4,物静かに何かを見つめる表情がよい。背景が焦茶一色なのも、座っているところが同系色の濃い色なのも、写真全体のまとまりがあってよい,The expression of calmly gazing at something is good. The monochromatic brown background and the dark color of the sitting area create a cohesive composition for the entire photo.,5,3,4,4,4,5,3,4,5,5,4,5,3,1,1,1,5,5,3,3,3,3
+CAT_00-00000059_022,4,猫自体の表情もいいし、床に反射している構図もよい,"The expression of the cat itself is good, and the composition with the reflection on the floor is also nice.",4,5,3,5,4,5,3,4,5,2,3,5,3,1,1,1,5,5,3,4,5,3
+CAT_00-00000060_010,2,表情が怖い,The expression is scary.,1,2,3,2,1,2,3,2,4,3,2,4,3,1,3,5,1,5,3,3,1,1
+CAT_00-00000060_016,2,表情が怖い,The expression is scary.,2,2,3,2,1,3,3,2,4,1,2,4,3,1,3,5,1,5,3,1,1,1
+CAT_00-00000061_013,4,目がクリクリしていて綺麗な色。表情もすましてていい,The eyes are sparkling and have beautiful colors. The expression is calm and nice.,5,3,4,5,5,4,3,5,4,5,5,4,3,1,3,5,5,5,4,4,3,2
+CAT_00-00000061_023,2,水平が取れていない。色被りしている。,The horizon is not level. There is color fringing.,2,2,4,2,2,4,3,3,2,3,2,2,3,2,1,4,4,4,2,1,4,2
+CAT_00-00000062_014,2,目が光ってて怖い,The eyes are shining and look scary.,1,1,2,1,1,2,3,1,3,1,3,4,5,1,1,5,1,5,4,1,1,1
+CAT_00-00000062_028,4,白黒なのに目だけ色がついてて面白い。表情もいい。,It's interesting that only the eyes have color in a black and white image. The expression is also good.,4,3,4,4,4,5,3,4,5,5,2,4,3,1,3,5,5,5,3,2,4,4
+CAT_00-00000063_006,4,怠惰な表情と姿勢がよい。猫と同じ目線のアングルなのもいい,The lazy expression and posture are nice. It's also good to have the same eye level as the cat.,4,3,2,2,3,5,4,4,5,2,2,5,1,1,5,4,5,5,3,3,5,3
+CAT_00-00000063_014,4,寝ているの可愛い。光も柔らかくて、布も柔らかそう,"It's cute that the cat is sleeping. The lighting is soft, and the fabric looks soft as well.",5,4,2,3,4,5,3,4,5,1,2,4,3,1,1,1,5,5,3,5,5,3
+CAT_00-00000063_015,2,顔が識別しづらい,The face is difficult to identify.,2,2,3,2,3,3,2,2,2,2,2,2,4,1,1,5,5,5,3,1,5,1
+CAT_00-00000066_005,2,人が写っていると目線が散らばる。猫の色が白飛びしすぎている。,"When people are in the photo, the focus of the gaze is scattered. The cat's fur is overexposed.",1,1,1,3,1,1,3,1,2,4,4,5,1,1,5,1,5,5,2,2,5,1
+CAT_00-00000066_028,4,綺麗な顔。木漏れ日の感じもいい。,Beautiful face. The feeling of sunlight filtering through the trees is also nice.,1,4,4,4,3,5,3,4,4,3,1,4,3,1,3,1,1,5,3,1,5,3
+CAT_00-00000067_004,4,緑の草むらに佇んでいる感じがよい。振り向き様のポーズもいい。,It's nice to see the cat standing in the green grass. The pose of looking back is also good.,4,3,4,4,3,5,3,4,5,2,2,5,3,5,2,5,5,5,4,4,5,5
+CAT_00-00000067_025,4,一点を見つめているのと背景が緑なのが綺麗。光も綺麗に顔を照らしている,"It's beautiful that the cat is looking at something specific and the background is green. The lighting is also beautiful, illuminating the face.",4,4,4,4,4,5,3,4,5,5,4,5,3,5,1,1,5,5,3,1,5,4
+CAT_00-00000067_028,4,煽りのアングルと西陽の角度から高いところに登っている様子が想像できて良い。陰影も綺麗。,It's good to imagine that the cat is climbing up to a high place based on the dynamic angle and the angle of the setting sun. The shadows are also beautiful.,4,3,4,4,5,5,3,4,5,4,4,4,3,3,3,1,5,5,3,5,5,3
+CAT_00-00000068_000,2,フラッシュの光が強い。表情もあまり好きじゃない。周りの枠や文字も不要,The flash is too strong. The expression is not very appealing. The surrounding frame and text are unnecessary.,2,2,2,1,4,2,2,2,5,1,3,5,3,1,2,1,5,1,3,1,1,1
+CAT_00-00000068_001,2,ピンボケしている,It's blurry.,3,2,2,2,4,5,2,3,2,3,3,5,3,1,3,4,5,5,1,4,1,3
+CAT_00-00000068_028,4,何かを狙っている表情がいい。模様のわりに表情もよく識別できる,"The expression of targeting something is good. Despite the patterns, the expression can be well identified.",3,2,4,4,3,3,2,4,5,5,4,5,4,1,1,1,5,5,4,4,2,3
+CAT_00-00000069_009,5,美しい。目の色も模様も綺麗。緑以外の色がないのもいい,Beautiful. The color and patterns of the eyes are beautiful. It's also nice that there are no colors other than green.,1,4,4,5,5,5,3,5,5,5,5,5,3,4,1,5,5,5,4,5,5,5
+CAT_00-00000069_014,5,アイキャッチがいい感じに入っている。舌がちょっとでているのも可愛い,It has a nice catchlight. It's cute that the tongue is slightly out.,4,4,4,4,5,4,3,5,5,5,4,5,3,1,1,1,5,5,3,4,1,3
+CAT_00-00000069_022,2,表情が怖い。フラッシュが強すぎる。色被りしている。,The expression is scary. The flash is too strong. There is color fringing.,2,2,1,1,1,2,3,2,4,1,2,4,3,1,2,3,4,5,2,1,1,2
+CAT_00-00000069_028,4,自然光の柔らかい光でよく毛が解像されている。,The fur is well resolved in soft natural light.,4,4,4,4,5,5,3,4,5,4,4,5,3,2,3,2,5,5,4,5,5,5
+CAT_00-00000070_005,4,毛がよく改造されている。澄ましている表情もいい。猫にピントが当たってて背景がボケているのもいい。,The fur is nicely detailed. The serene expression is also good. It's nice that the focus is on the cat and the background is blurred.,4,3,5,4,4,4,3,4,5,2,4,5,3,1,2,2,5,5,3,5,3,3
+CAT_00-00000071_004,4,ポーズと表情が可愛い。,The pose and expression are cute.,3,4,2,3,3,3,3,4,5,4,3,4,3,1,1,5,5,5,3,1,2,3
+CAT_00-00000071_013,4,一点を見つめる表情がいい。前後の草が前ボケも後ろボケもしていて、猫に目がいく。,"The expression of looking at something specific is good. The foreground and background grass are both blurred, drawing attention to the cat.",5,3,5,4,5,5,3,4,5,4,4,5,3,5,3,1,5,5,3,5,5,5
+CAT_00-00000073_004,4,猫の綺麗な顔にピントが合っていて、背景がボケている。大きな目でカメラ目線なので、すごく印象的。,"The focus is on the beautiful face of the cat, and the background is blurred. With its big eyes looking at the camera, it's very impressive.",3,4,5,4,4,5,3,4,5,5,4,5,3,1,2,5,5,5,3,5,5,4
+CAT_00-00000073_014,4,瞳が小さいので少し怖い気もするが、綺麗な白い毛並みが良く解像されていて、目の色も綺麗,"The small pupils make it slightly scary, but the beautiful white fur is well resolved, and the eye color is also beautiful.",3,2,5,5,3,5,4,4,5,4,5,5,2,3,4,5,5,5,5,5,5,5
+CAT_00-00000073_020,2,目が光っていて怖い。ポーズも好きじゃない,The eyes are shining and look scary. I also don't like the pose.,1,1,1,1,1,2,3,1,2,1,3,5,3,1,1,4,1,5,3,1,1,1
+CAT_00-00000075_002,5,ふさふさした毛が気持ちよさそう。顔にピントがあっており、目の色も綺麗。,"The fluffy fur looks comfortable. The face is in focus, and the eye color is beautiful.",4,3,5,4,4,4,3,4,5,2,4,5,3,1,1,4,5,5,4,4,4,4
+CAT_00-00000077_028,2,前ボケしている何かが邪魔,Something in the foreground is obstructing the view due to the bokeh effect.,3,2,1,1,3,2,3,3,2,4,3,4,2,1,4,1,5,5,3,1,3,3
+CAT_00-00000079_005,4,子猫の小ささがよく表現されている。背景に余計なものがないのもいい,The smallness of the kitten is well portrayed. It's nice that there are no unnecessary elements in the background.,4,4,2,3,5,5,3,4,5,3,2,4,3,1,1,2,5,5,3,4,3,3
+CAT_00-00000080_027,4,めんどくさそうにカメラ目線なのがいい。アイキャッチもいい。,It's nice that the cat is looking at the camera with a somewhat lazy expression. The catchlight is also good.,2,4,4,4,4,5,3,4,4,4,3,4,3,1,1,5,5,5,3,5,5,3
+CAT_00-00000081_001,4,物陰からのぞいていそうなのが陽の光で表現されている。アイキャッチもいい。,"It seems like the cat is peering out from behind an object, and this is nicely captured by the sunlight. The catchlight is also good.",4,3,4,4,4,5,3,4,5,5,4,4,3,4,2,1,5,5,3,5,5,2
+CAT_00-00000081_017,2,猫の表情がうまく識別できない,The cat's expression is difficult to identify.,2,1,2,1,4,4,2,2,2,1,2,4,3,1,1,3,3,5,2,3,5,1
+CAT_00-00000084_000,2,目が光っていて怖い。,The eyes are shining and look scary.,2,2,2,2,1,4,3,2,3,1,2,4,3,1,1,4,1,5,3,2,1,3
+CAT_00-00000084_004,2,ボールに目が入ってしまい、猫に目がいかない,"The focus is on the ball, and it takes attention away from the cat.",3,2,2,2,4,5,3,2,2,2,2,5,3,1,1,1,5,5,2,1,4,4
+CAT_00-00000085_020,4,黒目ガチで童顔だが、ちゃんとアイキャッチが入ってていい。顔にだけピンとがあっているのもいい。,"The eyes are big and childlike, and it's good that the catchlight is present. It's also nice that the focus is on the face.",5,5,2,3,5,5,3,5,5,5,3,5,3,1,2,2,5,5,4,4,3,3
+CAT_00-00000087_018,2,顔の識別ができない,The face is not easily recognizable.,4,2,2,2,5,5,3,2,2,1,1,3,3,1,3,1,5,5,3,2,4,3
+CAT_00-00000087_026,4,何かを語りかけてくる表情がいい。,The expression seems to be speaking something.,4,3,4,3,4,5,3,4,5,4,3,4,3,1,1,5,5,5,3,3,4,4
+CAT_00-00000088_004,2,猫の顔を識別できるようにするために、写真全体を明るくしすぎていいる,The overall photo is too bright in order to make the cat's face recognizable.,4,2,4,2,3,5,3,4,4,3,3,4,5,1,1,5,5,5,3,3,2,2
+CAT_00-00000088_020,2,顔が識別できない。フラッシュが強すぎる,The face is not easily identifiable. The flash is too strong.,4,1,4,3,5,2,3,2,1,1,1,2,5,1,1,1,5,5,2,2,1,1
+CAT_00-00000089_000,4,なされるがままな表情と体勢がいい,The expression and posture that seem indifferent are good.,5,5,3,3,5,4,3,4,5,1,1,4,3,1,1,1,5,5,3,2,2,2
+CAT_00-00000089_016,4,高いところから一点を見つめる顔がいい,The face that gazes at something from a high place is good.,4,2,4,4,3,5,3,4,5,4,3,4,3,1,1,2,5,5,4,3,5,4
+CAT_00-00000094_024,4,興味半分、警戒心半分でカメラを一心に見つめているのがいい。アイキャッチもいい。,It's nice that the cat is staring at the camera with half interest and half wariness. The catchlight is also good.,3,4,4,3,4,4,3,4,5,4,3,4,3,1,1,5,5,5,3,1,1,4
+CAT_00-00000095_000,4,猫の顔にピントがあっており、それ以外はボケているのがいい。,"The focus is on the cat's face, and the rest is blurred, which is good.",5,4,3,4,5,5,3,4,5,3,4,5,2,1,2,1,5,5,3,5,3,3
+CAT_00-00000300_016,2,ぱっと見で識別できない,It's not identifiable at first glance.,3,2,2,2,3,5,2,2,2,3,4,2,3,1,3,5,5,5,2,2,5,1
+CAT_00-00000301_010,2,模様が好きじゃない,I don't like the pattern.,2,2,2,2,3,5,1,2,3,3,3,5,4,5,1,5,5,5,3,1,5,3
+CAT_00-00000302_015,2,表情が識別しづらい,The expression is difficult to identify.,2,1,2,1,3,3,2,2,2,3,3,5,3,1,3,4,5,5,3,1,3,3
+CAT_00-00000303_013,2,表情が識別しづらい,The expression is difficult to identify.,2,1,4,2,2,3,3,3,2,4,4,3,5,1,1,1,5,5,2,1,3,3
+CAT_00-00000310_029,2,猫以外の別の動物のように感じる,"It feels like another animal, not a cat.",2,1,4,3,3,5,3,2,5,3,3,5,3,1,1,1,5,5,3,5,5,5
+CAT_00-00000311_000,2,光の感じはよいが、それでも識別しづらい。,"The lighting is good, but it's still difficult to identify.",3,2,4,3,4,4,3,3,2,4,2,3,4,1,1,5,5,5,3,3,5,1
+CAT_00-00000314_026,2,眩しそう。表情が好きじゃない,It looks dazzling. I don't like the expression.,2,1,1,1,2,2,3,2,5,1,1,5,3,1,1,2,5,5,3,3,2,2
+CAT_00-00000317_022,1,細すぎて心配になる。フラッシュも強い。,"It looks too thin, and it's concerning. The flash is also too strong.",1,1,1,1,2,3,1,1,5,2,3,5,3,1,1,4,5,5,3,1,1,1
+CAT_00-00000317_024,2,あまり表情がわからない。,The expression is not easily understood.,3,2,2,2,3,3,3,2,4,1,1,4,4,1,1,1,5,5,2,1,1,3
+CAT_00-00000317_027,2,ブレている,It's blurry.,2,3,2,2,2,5,3,3,2,4,3,4,3,1,3,5,5,5,1,4,1,3
+CAT_00-00000318_017,2,反射している顔が歪んでていて怖い,The reflected face is distorted and looks scary.,1,2,2,2,4,4,3,2,4,5,4,5,3,1,3,5,5,5,3,3,3,3
+CAT_00-00000318_020,2,ちょうど目に葉がかかってて見づらい,It's hard to see because a leaf is covering the eyes.,3,2,2,1,3,5,3,3,2,2,3,3,3,2,3,4,5,5,3,3,5,2
+CAT_00-00000318_029,2,表情が怖い,The expression is scary.,1,2,2,2,1,5,4,2,5,3,3,4,1,1,5,4,5,5,3,3,4,4
+CAT_00-00000320_029,2,目が光ってて表情の識別もできなくて怖い,"The eyes are shining, and it's difficult to identify the expression, which is scary.",1,1,2,2,1,3,3,2,2,1,2,4,2,1,1,3,1,5,3,2,1,4
+CAT_00-00000321_028,2,花に視線が入ってしまって見づらい,"The gaze is directed at the flower, making it difficult to see.",5,4,3,3,2,5,3,4,2,2,2,5,3,4,1,5,5,5,3,1,5,4
+CAT_00-00000324_016,2,光が硬いので、陰影が強くて猫の表情が識別しづらい,"The lighting is harsh, creating strong shadows that make it difficult to identify the cat's expression.",4,2,3,2,3,3,3,3,2,1,1,3,3,1,1,3,5,5,2,1,5,1
+CAT_00-00000324_022,2,ぱっと見で猫が識別できない,The cat is not identifiable at first glance.,5,5,2,2,4,5,3,4,1,2,3,4,3,2,1,4,5,5,3,1,5,4
