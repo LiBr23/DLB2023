@@ -1,2 +1,2 @@
-# DLB2023
+# Deep Learning Bacic 2023
  
