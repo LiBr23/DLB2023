@@ -1,7 +1,6 @@
 # Deep Learning Bacic 2023
  
 
-
 本コードは、
 Deep Learning基礎講座 2023の最終課題で提出したものとなります。
 
